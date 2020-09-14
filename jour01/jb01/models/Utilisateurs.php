@@ -4,7 +4,7 @@
 class  Utilisateurs_model
 {
 
-class utilisateurs_model
+class private utilisateurs_model()
 {
 
     private $_bdd = "";
