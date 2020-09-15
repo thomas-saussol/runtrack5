@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello MyEntrepriseController!{% endblock %}
+
+{% block body %}
+    <style>
+        .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+        .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+    </style>
+
+    <div class="example-wrapper">
+
+        <HEADER>{{ projet.content|raw }}</HEADER></a>
+            <h1>{{ projet.title }}</h1>
+            <img src="{{ projet.image }}" >
+            <h4>{{ projet.createdAt|date('d:m:Y H:i:s') }}</h4>
+
+
+    </div>
+{% endblock %}
