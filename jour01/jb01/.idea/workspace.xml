@@ -41,7 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="symfonyt-V" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,6 +59,7 @@
       <updated>1600077237478</updated>
       <workItem from="1600077238577" duration="6157000" />
       <workItem from="1600093457605" duration="2000000" />
+      <workItem from="1600156942034" duration="316000" />
     </task>
     <servers />
   </component>
@@ -80,5 +87,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="858" y="490" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600077994238" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1600156963721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600156963721" />
+    <state x="582" y="230" key="run.anything.popup" timestamp="1600156977404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="230" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600156977404" />
   </component>
 </project>
