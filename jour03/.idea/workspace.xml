@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121170fb-d6e1-4c22-943d-7d4898c2c127" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/job02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job03/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job03/add-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job03/list-user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jour01/jb01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jour01/jb01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jour02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jour02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job02/server.js.js" beforeDir="false" afterPath="$PROJECT_DIR$/job02/server.js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600244590368</updated>
-      <workItem from="1600244591412" duration="3688000" />
+      <workItem from="1600244591412" duration="10311000" />
     </task>
     <servers />
   </component>
